@@ -1,0 +1,117 @@
+{
+  "predefinedItem": {
+    "Dynamic Data fields": [
+      {
+        "id": 1,
+        "content": "System_TodaysDate"
+      },
+      {
+        "id": 2,
+        "content": "Insured_FullName"
+      },
+      {
+        "id": 3,
+        "content": "Insured_MailingAddress"
+      },
+      {
+        "id": 4,
+        "content": "Performer1_OfficeName"
+      },
+      {
+        "id": 5,
+        "content": "Performer1_OfficeMailingAddress"
+      },
+
+      {
+        "id": 6,
+        "content": "Claim Number:Claim_RefNumber"
+      },
+      {
+        "id": 7,
+        "content": "Date of Loss:Claim_LossDate"
+      },
+      {
+        "id": 8,
+        "content": "Our Insured:NamedInsured_FullName"
+      },
+      {
+        "id": 9,
+        "content": "Claim_RefNumber"
+      },
+      {
+        "id": 10,
+        "content": "Performer1_FCPhone"
+      },
+      {
+        "id": 11,
+        "content": "Insured_Salutation"
+      },
+      {
+        "id": 12,
+        "content": "Performer1_JobTitle"
+      }
+    ],
+    "Insert Claim Data": [
+      {
+        "id": 1,
+        "content": "$**DRAFT AMT**"
+      },
+      {
+        "id": 2,
+        "content": "$**AMOUNT**"
+      },
+      {
+        "id": 3,
+        "content": "$**DED AMT**"
+      },
+      {
+        "id": 4,
+        "content": "$**TOTAL RC BENEFIT AMT**"
+      }
+    ],
+    "Insert Enclosures": [
+      {
+        "id": 1,
+        "content": "Draft"
+      },
+      {
+        "id": 2,
+        "content": "Summary of Loss"
+      },
+      {
+        "id": 3,
+        "content": "Contents Inventory"
+      },
+      {
+        "id": 4,
+        "content": "Estimate"
+      },
+      {
+        "id": 5,
+        "content": "Loss Of Income worksheet"
+      }
+    ],
+    "Disclaimer": [
+      {
+        "id": 1,
+        "content": "General Disclaimer"
+      },
+      {
+        "id": 2,
+        "content": "Non-Liability Disclaimer"
+      },
+      {
+        "id": 3,
+        "content": "Coverage Disclaimer"
+      },
+      {
+        "id": 4,
+        "content": "claims Processing Disclaimer"
+      },
+      {
+        "id": 5,
+        "content": "Privacy Disclaimer"
+      }
+    ]
+  }
+}
